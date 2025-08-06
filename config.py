@@ -1,0 +1,3 @@
+MAX_CHARS = 10000
+MAX_CONV_ROUNDS = 20
+WORKING_DIR = "./calculator"
